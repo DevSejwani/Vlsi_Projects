@@ -1,0 +1,6 @@
+verilog work "Nor.v"
+verilog work "Anddd.v"
+verilog work "D_Flip.v"
+verilog work "PN_Detect.v"
+verilog work "PN_Detect_Tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Downloads/Pos_Neg_Edge_detection/PN_Detect.xst" -ofn "C:/Downloads/Pos_Neg_Edge_detection/PN_Detect.syr" 

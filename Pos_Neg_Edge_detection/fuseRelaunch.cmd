@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Downloads/Pos_Neg_Edge_detection/PN_Detect_Tb_isim_beh.exe" -prj "C:/Downloads/Pos_Neg_Edge_detection/PN_Detect_Tb_beh.prj" "work.PN_Detect_Tb" "work.glbl" 

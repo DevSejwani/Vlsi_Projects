@@ -1,0 +1,6 @@
+verilog isim_temp "Nor.v"
+verilog isim_temp "Anddd.v"
+verilog isim_temp "D_Flip.v"
+verilog isim_temp "PN_Detect.v"
+verilog isim_temp "PN_Detect_Tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
