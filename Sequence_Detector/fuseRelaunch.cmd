@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Downloads/Sequence_Detector/SD_Tb_isim_beh.exe" -prj "C:/Downloads/Sequence_Detector/SD_Tb_beh.prj" "work.SD_Tb" "work.glbl" 
